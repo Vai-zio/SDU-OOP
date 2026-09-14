@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\bin\Debug\net10.0\Christmas sale.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\bin\Debug\net10.0\Christmas sale.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\bin\Debug\net10.0\Christmas sale.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\bin\Debug\net10.0\Christmas sale.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\bin\Debug\net10.0\Christmas sale.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\refint\Christmas sale.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\Christmas sale.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Christmas sale\obj\Debug\net10.0\ref\Christmas sale.dll
