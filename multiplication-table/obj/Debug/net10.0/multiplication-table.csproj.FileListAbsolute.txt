@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\bin\Debug\net10.0\multiplication-table.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\bin\Debug\net10.0\multiplication-table.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\bin\Debug\net10.0\multiplication-table.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\bin\Debug\net10.0\multiplication-table.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\bin\Debug\net10.0\multiplication-table.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\refint\multiplication-table.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\multiplication-table.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\multiplication-table\obj\Debug\net10.0\ref\multiplication-table.dll
