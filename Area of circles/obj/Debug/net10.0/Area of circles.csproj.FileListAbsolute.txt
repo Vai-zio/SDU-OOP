@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\bin\Debug\net10.0\Area of circles.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\bin\Debug\net10.0\Area of circles.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\bin\Debug\net10.0\Area of circles.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\bin\Debug\net10.0\Area of circles.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\bin\Debug\net10.0\Area of circles.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\refint\Area of circles.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\Area of circles.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Area of circles\obj\Debug\net10.0\ref\Area of circles.dll

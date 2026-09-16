@@ -1,0 +1,4 @@
+Write a program that calculates and prints out the area (π · r2) of three circles that have the
+radiuses 1, 3 and 5.
+Notice: This is a repetition of exercise 6.9, but this time you have a larger toolbox at your
+disposal.
