@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\bin\Debug\net10.0\Average Grade.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\bin\Debug\net10.0\Average Grade.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\bin\Debug\net10.0\Average Grade.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\bin\Debug\net10.0\Average Grade.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\bin\Debug\net10.0\Average Grade.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\refint\Average Grade.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\Average Grade.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Average Grade\obj\Debug\net10.0\ref\Average Grade.dll
