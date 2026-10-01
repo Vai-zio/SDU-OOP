@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\bin\Debug\net10.0\Incomplete Deck.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\bin\Debug\net10.0\Incomplete Deck.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\bin\Debug\net10.0\Incomplete Deck.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\bin\Debug\net10.0\Incomplete Deck.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\bin\Debug\net10.0\Incomplete Deck.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\refint\Incomplete Deck.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\Incomplete Deck.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Incomplete Deck\obj\Debug\net10.0\ref\Incomplete Deck.dll
