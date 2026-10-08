@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\bin\Debug\net10.0\Inventory.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\bin\Debug\net10.0\Inventory.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\bin\Debug\net10.0\Inventory.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\bin\Debug\net10.0\Inventory.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\bin\Debug\net10.0\Inventory.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\refint\Inventory.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\Inventory.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\Inventory\obj\Debug\net10.0\ref\Inventory.dll
