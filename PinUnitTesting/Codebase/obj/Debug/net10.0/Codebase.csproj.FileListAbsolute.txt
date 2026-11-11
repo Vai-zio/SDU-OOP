@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\bin\Debug\net10.0\Codebase.exe
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\bin\Debug\net10.0\Codebase.deps.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\bin\Debug\net10.0\Codebase.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\bin\Debug\net10.0\Codebase.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\bin\Debug\net10.0\Codebase.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.sourcelink.json
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\refint\Codebase.dll
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.pdb
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\Codebase.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\OOP\SDU-OOP\PinUnitTesting\Codebase\obj\Debug\net10.0\ref\Codebase.dll
